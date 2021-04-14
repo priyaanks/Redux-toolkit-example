@@ -20,7 +20,7 @@ export function Todo() {
 
   return (
     <div>
-      <h1>Your Todos</h1>
+      <h3>Your Todos</h3>
       <div className={styles.row}>
         <div className={styles.card}>
           <ul>

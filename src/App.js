@@ -8,7 +8,7 @@ function App() {
   return (
     <div className='App'>
       <header className='App-header'>
-        <h1>Redux-tookit Example</h1>
+        <h3>Redux-tookit Example</h3>
         <img src={logo} className='App-logo' alt='logo' />
         <Counter />
         <Todo />
